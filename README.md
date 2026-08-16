@@ -73,7 +73,8 @@ Busco evoluir continuamente como profissional de tecnologia, desenvolvendo minha
 Estou aberto a oportunidades, projetos, networking e troca de conhecimentos na área de Tecnologia da Informação.
 
 **Obrigado pela visita! 🚀**
-##Contato 
-e-mail edulima8616@gmail.com
 ---
+Contato
+---
+e-mail edulima8616@gmail.com
 LinkedIn https://www.linkedin.com/in/eduardo-lima-5895893b5/
