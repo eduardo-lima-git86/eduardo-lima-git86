@@ -9,7 +9,25 @@ Sou estudante de **Tecnologia da Informação**, com foco em **Desenvolvimento d
 Minha formação é construída através da combinação entre **estudo, experimentação e desenvolvimento de projetos**, buscando transformar conhecimentos teóricos em soluções práticas.
 
 ---
+<h2>📊 GitHub Stats</h2>
 
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=eduardo-lima-git86&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+  alt="GitHub Stats"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-lima-git86&layout=compact&langs_count=8"
+  alt="Top Languages"
+  height="180"
+/>
+
+</div>
+
+---
 ## 🧠 Sobre mim
 
 Tenho interesse em compreender não apenas **como uma tecnologia funciona**, mas principalmente como utilizá-la para resolver problemas reais.
@@ -57,12 +75,6 @@ Sistema de gestão desenvolvido com **Python e Django**, atualmente em desenvolv
 O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web, Backend, Banco de Dados e arquitetura de aplicações em uma solução de gerenciamento empresarial.
 
 🔗 [Ver projeto](https://github.com/eduardo-lima-git86/erp--Gerenciador-para-empresas)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo-lima-git86&show_icons=true)
 
 ---
 
