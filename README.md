@@ -1,80 +1,122 @@
 # 👋 Olá! Eu sou Eduardo Lima
 
-Seja bem-vindo ao meu perfil no GitHub! 🚀
+### 💻 Estudante de Tecnologia da Informação | Desenvolvedor de Software em Formação | Python • Django • SQL | IA & Sistemas Inteligentes
 
-Sou estudante de **Tecnologia da Informação**, com foco em **Desenvolvimento de Software** e interesse em transformar ideias em soluções tecnológicas.
+Seja bem-vindo ao meu perfil!
+
+Sou estudante de **Tecnologia da Informação**, com foco em **Desenvolvimento de Software, Inteligência Artificial e Sistemas Inteligentes**.
+
+Minha formação é construída através da combinação entre **estudo, experimentação e desenvolvimento de projetos**, buscando transformar conhecimentos teóricos em soluções práticas.
+
+---
+
+## 🧠 Sobre mim
+
+Tenho interesse em compreender não apenas **como uma tecnologia funciona**, mas principalmente como utilizá-la para resolver problemas reais.
+
+Atualmente desenvolvo meus conhecimentos em **Python, Django, SQL, HTML e CSS**, explorando conceitos de Backend, Frontend, Banco de Dados e Desenvolvimento Web.
+
+Também tenho interesse especial em **Inteligência Artificial e Sistemas Inteligentes**, área na qual já tive a oportunidade de aplicar conceitos como representação do conhecimento, regras de inferência, Forward Chaining, Backward Chaining, resolução de conflitos e fatores de confiança.
 
 ---
 
 ## 💻 Minha Stack
 
-### Linguagens e tecnologias
+### Linguagens & Web
 
-- 🐍 Python
-- 🗄️ SQL
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚙️ Django
-- 🔧 Git / GitHub
+🐍 Python • 🗄️ SQL • 🌐 HTML5 • 🎨 CSS3
+
+### Framework & Ferramentas
+
+⚙️ Django • 🔧 Git • 🐙 GitHub • 💻 VS Code
 
 ### Desenvolvimento
 
-- Backend
-- Frontend
-- Desenvolvimento Web
-- Banco de Dados
-- APIs
-- Lógica de Programação
+Backend • Frontend • Desenvolvimento Web • Banco de Dados • APIs • Lógica de Programação
+
+### Inteligência Artificial
+
+🤖 Inteligência Artificial • 🧠 Sistemas Inteligentes • Sistemas Baseados em Regras • Motores de Inferência
 
 ---
 
-## 🎯 Interesses em Desenvolvimento
+## 🚀 Projetos em destaque
 
-Tenho interesse principalmente em:
+### 🤖 Assistente Virtual — Healthtech Acadêmico
 
-- 🚀 Desenvolvimento de sistemas e aplicações web
-- 🐍 Desenvolvimento Backend com Python e Django
-- 🗄️ Banco de dados e SQL
+Projeto acadêmico desenvolvido para aplicar, na prática, conceitos de **Sistemas Inteligentes**.
+
+O projeto utiliza conhecimento estruturado, regras de inferência e mecanismos de decisão para analisar informações relacionadas à malária.
+
+🔗 [Ver projeto](https://github.com/eduardo-lima-git86/Assistente-Virtual-Healthtech-Acad-mico)
+
+### 💻 ERP — Gerenciador para Empresas
+
+Sistema de gestão desenvolvido com **Python e Django**, atualmente em desenvolvimento.
+
+O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web, Backend, Banco de Dados e arquitetura de aplicações em uma solução de gerenciamento empresarial.
+
+🔗 [Ver projeto](https://github.com/eduardo-lima-git86/erp--Gerenciador-para-empresas)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-lima-git86&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-lima-git86&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 🎯 Interesses
+
+- 🚀 Desenvolvimento de Software
+- 🐍 Python & Django
+- 🌐 Desenvolvimento Web
 - 🤖 Inteligência Artificial
+- 🧠 Sistemas Inteligentes
+- 🗄️ Banco de Dados
 - 🔗 APIs e integração de sistemas
-- 🎨 Desenvolvimento Frontend
 - 💡 Automação de processos
-- 📊 Sistemas de gestão e ERP
+- 📊 Sistemas de gestão
 
 ---
 
-## 🛠️ Atualmente estou desenvolvendo
-
-> **Projeto:** ERP Facilita — Projeto Atlas
-
-Um sistema de gestão desenvolvido com **Python e Django**, com funcionalidades voltadas para gerenciamento de clientes, produtos, serviços, orçamentos e financeiro.
-
----
-
-## 📚 Atualmente estudando
+## 🌱 Atualmente estudando
 
 - Python
 - Django
-- SQL e Banco de Dados
+- SQL
+- Banco de Dados
 - Desenvolvimento Web
 - Inteligência Artificial
 - Engenharia de Software
 
 ---
 
-## 🌱 Objetivo
+## 🧩 Competências
 
-Busco evoluir continuamente como profissional de tecnologia, desenvolvendo minhas habilidades técnicas e comportamentais e criando soluções que possam gerar valor para pessoas e empresas.
+### Técnicas
+
+Python • Django • SQL • HTML5 • CSS3 • Backend • Frontend • Banco de Dados • Git/GitHub • Sistemas Inteligentes
+
+### Comportamentais
+
+Pensamento Analítico • Resolução de Problemas • Aprendizado Contínuo • Proatividade • Persistência • Curiosidade • Atenção aos Detalhes
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como profissional de tecnologia, ampliando minha experiência em **Desenvolvimento de Software e Inteligência Artificial** e construindo soluções capazes de gerar valor para pessoas e empresas.
+
+> 🚀 **Em constante aprendizado, desenvolvimento e construção de novas soluções.**
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Estou aberto a oportunidades, projetos, networking e troca de conhecimentos na área de Tecnologia da Informação.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Lima-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-lima-5895893b5/)
 
-**Obrigado pela visita! 🚀**
----
-Contato
----
-e-mail edulima8616@gmail.com
-LinkedIn https://www.linkedin.com/in/eduardo-lima-5895893b5/
+⭐ Obrigado pela visita!
