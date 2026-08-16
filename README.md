@@ -62,10 +62,7 @@ O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web, Backen
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-lima-git86&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-lima-git86&layout=compact&langs_count=8" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo-lima-git86&show_icons=true)
 
 ---
 
